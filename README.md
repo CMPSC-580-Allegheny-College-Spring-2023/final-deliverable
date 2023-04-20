@@ -34,17 +34,16 @@ Across each of our assignments, we have used reason to explore different aspects
 * __Assignment 1__ (The idea): To determine a fitting idea or area of research in which a project could be completed.
 
 * __Assignment 2__ (The Web Notebook): To learn how to set up a Hugo and Netlify to create a website which will play the part of a research notebook.
-* Assignment 4 (The Gap): To contemplate the deliverable of your research project by identifying the knowledge gap motivated by relevant literature. This assignment will invite the student to consider the end-product so as to begin to set goals for a senior thesis research project.
 
 * __Assignment 3__ (The Literature): To learn how to use public online searches to locate and read peer-reviewed articles in the literature to the benefit of a research interest and software tools to help facilitate your research.
 
 * __Assignment 4__ (The See-It-To-Be-It Thesis Exploration): To observe and inspect the comprehensive works of former graduates to determine thesis formatting, writing, section and style for thesis preparation. 
 
-* __Assignment 5__ (The Gap): The determination of the goals of the project in terms of its deliverable and its motivation by the literature. 
+* __Assignment 5__ (The Gap): To contemplate the deliverable of your research project by identifying the knowledge gap motivated by relevant literature. This assignment will invite the student to consider the end-product so as to begin to set goals for a senior thesis research project.
 
 * __Assignment 6__ (Project Feasibility): To determine some of the parameters of scope of the project. To explore the available resources at hand (i.e., tools, skills, literature, data, and etc.) which will be applied to the completing of the project. To inquire whether a project can be completed in a given time frame (2-3 months) with the application of the available tools.
 
-* __Assignment 7__ (The Prototype and Experiment): To design and implement a prototype tool that can run experiments, collect data, and analyze results. To write clear documentation, which allows others to use the tool, and to demonstrate the implemented prototype. To design and conduct an experiment using developed prototype to collect preliminary data with a goal of answering at least one research question connected to the research project idea.
+* __Assignment 7,8__ (The Prototype and Experiment): To design and implement a prototype tool that can run experiments, collect data, and analyze results. To write clear documentation, which allows others to use the tool, and to demonstrate the implemented prototype. To design and conduct an experiment using developed prototype to collect preliminary data with a goal of answering at least one research question connected to the research project idea.
 
 * __Assignment 9__ (Post-Experimentation): To determine what was learned from the experiment which could support the general project. To get feedback from peers about the experiment.
 
