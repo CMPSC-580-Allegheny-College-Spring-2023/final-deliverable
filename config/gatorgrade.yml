@@ -1,0 +1,66 @@
+# perform checks on a file
+
+# check the technical writing for various characteristics
+- writing/outline.md:
+    - description: Ensure that outline.md file exists in the writing/ directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers in the outline.md
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Name Here"
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Account Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Account Name Here"
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Research Notebook Link Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Research Notebook Link Here"
+        count: 0
+        exact: true
+
+# check the technical writing for various characteristics
+- writing/proposal.md:
+    - description: Ensure that proposal.md file exists in the writing/ directory
+      check: ConfirmFileExists
+    - description: Complete all TODOs, remove the TODO markers in the proposal.md
+      check: MatchFileFragment
+      options:
+        fragment: TODO
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Name Here"
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Account Name Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Account Name Here"
+        count: 0
+        exact: true
+    - description: Delete the 'Add Your Research Notebook Link Here' prompt in the reflection file
+      check: MatchFileFragment
+      options:
+        fragment: "Add Your Research Notebook Link Here"
+        count: 0
+        exact: true
+
+
+# count number of commits in the GitHub repository
+- description: Have at least a specific minimum number of commits (3) in repository
+  check: CountCommits
+  options:
+    count: 4
