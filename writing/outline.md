@@ -2,19 +2,49 @@
 
 ## Assignment 10
 
-### Final Deliverable: outline
+* Final Deliverable: outline
 
-#### Name
+     + Name
 
 Add Your Name Here
 
-#### GitHub Account Name
+     + GitHub Account Name
 
 Add Your Account Name Here
 
 ---
 
-TODO: Outline Text
+* Introduction
+
+     + Motivation
+
+     + Current State of the Art
+
+     + Goals of the Project
+
+* Related work
+
+* Prototype
+
+* Experiments
+
+     + Experimental Design
+
+     + Evaluation
+
+     + Threats to Validity
+
+* Conclusion
+
+     + Summary of Results
+
+     + Future Work
+
+     + Ethical Implications and Recommendations
+
+     + Conclusions
+
+     + References
 
 ---
 
